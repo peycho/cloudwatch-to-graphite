@@ -49,7 +49,7 @@ version number, and cut/tag a release.
 Reporting Bugs
 ~~~~~~~~~~~~~~
 
-This section guides you through submitting a bug report for Atom.
+This section guides you through submitting a bug report for cloudwatch-to-graphite.
 Following these guidelines helps maintainers and the community
 understand your report, reproduce the behavior, and find related
 reports.
