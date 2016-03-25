@@ -36,9 +36,13 @@ Developing
 Pull requests
 ~~~~~~~~~~~~~
 
-Standard-issue github project flow, summarized: 1. Fork the report 2.
-Create a branch 3. Check in your changes 4. Create a pull request 5. An
-existing contributor will do a code review, and as applicable ask for
+Standard-issue github project flow, summarized:
+
+1. Fork the repo
+2. Create a branch
+3. Check in your changes
+4. Create a pull request
+5. An existing contributor will do a code review, and as applicable ask for
 changes, mark the pull request with a :+1:, or merge it in, bump the
 version number, and cut/tag a release.
 
